@@ -1,4 +1,5 @@
 💫 About Me:
+
 My goal is to become a Fullstack Developer.<br><br>I’m currently working at a software development company in Brazil, which develops from customized systems to virtual reality simulators.<br><br>I’m currently studying about back-end technologies, especially C# and database SQL.<br><br>I'm very curious, I like to learn new things and help people.<br><br>
 
 
